@@ -1,6 +1,9 @@
 # BuberDinner
 A .net project emulating uber but for dinners. Project is used to learn about .net sdk and projects
 
+### Following the tutorial:
+https://www.youtube.com/watch?v=fhM0V2N1GpY
+
 Commands ran:
 ```bash
 dotnet new sln
