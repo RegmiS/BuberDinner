@@ -4,7 +4,7 @@ A .net project emulating uber but for dinners. Project is used to learn about .n
 ### Following the tutorial:
 https://www.youtube.com/watch?v=fhM0V2N1GpY
 
-Commands ran:
+Commands ran (Project is built on linux)
 ```bash
 dotnet new sln
 dotnet new webapi -o BuberDinner.API
@@ -15,4 +15,10 @@ dotnet new classlib -o BuberDinner.Domain
 
 dotnet sln add BuberDinner.API/BuberDinner.API.csproj BuberDinner.Application/BuberDinner.Application.csproj BuberDinner.Contracts/BuberDinner.Contracts.csproj BuberDinner.Domain/BuberDinner.Domain.csproj BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj
 ```
-Testing using dotnet build
+Testing using: dotnet build
+
+part2: Dependencies between projects:
+APi needs to know about contracts and application layer
+```bash
+dotnet add BuberDinner.API/ reference BuberDinner.Contracts/ BuberDinner.Application/
+```
