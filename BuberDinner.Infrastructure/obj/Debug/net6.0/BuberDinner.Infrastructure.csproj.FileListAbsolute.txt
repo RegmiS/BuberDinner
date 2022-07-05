@@ -1,0 +1,12 @@
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Infrastructure.deps.json
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Infrastructure.dll
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Infrastructure.pdb
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.AssemblyInfoInputs.cache
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.AssemblyInfo.cs
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.dll
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/refint/BuberDinner.Infrastructure.dll
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.pdb
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/ref/BuberDinner.Infrastructure.dll

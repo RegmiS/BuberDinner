@@ -1,0 +1,12 @@
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Application.deps.json
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Application.dll
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Application.pdb
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.csproj.AssemblyReference.cache
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.AssemblyInfoInputs.cache
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.AssemblyInfo.cs
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.csproj.CoreCompileInputs.cache
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.dll
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/refint/BuberDinner.Application.dll
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.pdb
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/ref/BuberDinner.Application.dll
