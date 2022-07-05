@@ -22,3 +22,6 @@ APi needs to know about contracts and application layer
 ```bash
 dotnet add BuberDinner.API/ reference BuberDinner.Contracts/ BuberDinner.Application/
 ```
+
+Infrastructure needs to know about application
+dotnet add BuberDinner.Infrastructure/ reference BuberDinner.Application/
