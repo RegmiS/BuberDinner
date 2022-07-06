@@ -25,3 +25,6 @@ dotnet add BuberDinner.API/ reference BuberDinner.Contracts/ BuberDinner.Applica
 
 Infrastructure needs to know about application
 dotnet add BuberDinner.Infrastructure/ reference BuberDinner.Application/
+
+Application needs to know about the domain
+dotnet add BuberDinner.Application/ reference BuberDinner.Domain/
