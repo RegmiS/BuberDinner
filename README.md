@@ -43,3 +43,22 @@ Part3: Installing rest client extention via VSCODE and checking to make sure thi
 ```bash 
 dotnet build
 ``` 
+
+Running specifically the API allows with the dotnet command lets you test the api in isolation:
+```
+dotnet dotnet run --project BuberDinner.API/
+```
+And you get an output like this, which has the API endpoint/route to use to test the API:
+```bash
+Building...
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: https://localhost:7191
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5198
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: /home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.API/
+```
