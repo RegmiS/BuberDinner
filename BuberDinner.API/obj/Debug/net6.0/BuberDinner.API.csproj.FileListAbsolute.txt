@@ -25,3 +25,11 @@
 /home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.API/obj/Debug/net6.0/BuberDinner.API.pdb
 /home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.API/obj/Debug/net6.0/BuberDinner.API.genruntimeconfig.cache
 /home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.API/obj/Debug/net6.0/ref/BuberDinner.API.dll
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.API/bin/Debug/net6.0/BuberDinner.Application.dll
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.API/bin/Debug/net6.0/BuberDinner.Contracts.dll
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.API/bin/Debug/net6.0/BuberDinner.Domain.dll
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.API/bin/Debug/net6.0/BuberDinner.Infrastructure.dll
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.API/bin/Debug/net6.0/BuberDinner.Contracts.pdb
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.API/bin/Debug/net6.0/BuberDinner.Application.pdb
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.API/bin/Debug/net6.0/BuberDinner.Infrastructure.pdb
+/home/sandesh/Documents/REPOS/BuberDinner/BuberDinner.API/bin/Debug/net6.0/BuberDinner.Domain.pdb

@@ -17,17 +17,29 @@ dotnet sln add BuberDinner.API/BuberDinner.API.csproj BuberDinner.Application/Bu
 ```
 Testing using: dotnet build
 
-part2: Dependencies between projects:
+Part2: Dependencies between projects:
 APi needs to know about contracts and application layer
 ```bash
 dotnet add BuberDinner.API/ reference BuberDinner.Contracts/ BuberDinner.Application/
 ```
 
 Infrastructure needs to know about application
+```
 dotnet add BuberDinner.Infrastructure/ reference BuberDinner.Application/
+```
 
 Application needs to know about the domain
+```
 dotnet add BuberDinner.Application/ reference BuberDinner.Domain/
+```
 
 API needs to know about the infrastructure
+```
 dotnet add BuberDinner.API/ reference BuberDinner.Infrastructure/
+```
+
+<br>
+Part3: Installing rest client extention via VSCODE and checking to make sure this works:
+```bash 
+dotnet build
+``` 
